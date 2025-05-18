@@ -1,0 +1,12 @@
+C:\Users\gabri\OneDrive\Documentos\Rafa\ToDoProject\ToDo.Core\bin\Debug\net9.0\ToDo.Core.deps.json
+C:\Users\gabri\OneDrive\Documentos\Rafa\ToDoProject\ToDo.Core\bin\Debug\net9.0\ToDo.Core.dll
+C:\Users\gabri\OneDrive\Documentos\Rafa\ToDoProject\ToDo.Core\bin\Debug\net9.0\ToDo.Core.pdb
+C:\Users\gabri\OneDrive\Documentos\Rafa\ToDoProject\ToDo.Core\obj\Debug\net9.0\ToDo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\Rafa\ToDoProject\ToDo.Core\obj\Debug\net9.0\ToDo.Core.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Rafa\ToDoProject\ToDo.Core\obj\Debug\net9.0\ToDo.Core.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\Rafa\ToDoProject\ToDo.Core\obj\Debug\net9.0\ToDo.Core.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Rafa\ToDoProject\ToDo.Core\obj\Debug\net9.0\ToDo.Core.sourcelink.json
+C:\Users\gabri\OneDrive\Documentos\Rafa\ToDoProject\ToDo.Core\obj\Debug\net9.0\ToDo.Core.dll
+C:\Users\gabri\OneDrive\Documentos\Rafa\ToDoProject\ToDo.Core\obj\Debug\net9.0\refint\ToDo.Core.dll
+C:\Users\gabri\OneDrive\Documentos\Rafa\ToDoProject\ToDo.Core\obj\Debug\net9.0\ToDo.Core.pdb
+C:\Users\gabri\OneDrive\Documentos\Rafa\ToDoProject\ToDo.Core\obj\Debug\net9.0\ref\ToDo.Core.dll
